@@ -45,9 +45,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0002-add-two-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
