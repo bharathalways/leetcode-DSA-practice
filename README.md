@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0027-remove-element) |
+| [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Two Pointers
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
