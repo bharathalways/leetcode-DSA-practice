@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0020-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
