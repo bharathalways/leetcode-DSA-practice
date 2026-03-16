@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0051-n-queens) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0051-n-queens) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
 |  |
