@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0066-plus-one) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0066-plus-one) |
 | [1622-fancy-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
