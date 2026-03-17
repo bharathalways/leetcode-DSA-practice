@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Prefix Sum
