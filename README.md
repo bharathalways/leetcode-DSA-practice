@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0125-valid-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
