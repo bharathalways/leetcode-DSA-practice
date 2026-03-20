@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
