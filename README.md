@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0125-valid-palindrome) |
 | [3643-flip-square-submatrix-vertically](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
