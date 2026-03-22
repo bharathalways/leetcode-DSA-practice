@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -120,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0060-permutation-sequence) |
+| [0234-palindrome-linked-list](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
