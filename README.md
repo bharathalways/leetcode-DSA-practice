@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0217-contains-duplicate) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## String
 |  |
