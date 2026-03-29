@@ -1,0 +1,10 @@
+class Solution {
+    public boolean canBeEqual(String s1, String s2) {
+        return same(s1.charAt(0), s1.charAt(2), s2.charAt(0), s2.charAt(2)) &&
+               same(s1.charAt(1), s1.charAt(3), s2.charAt(1), s2.charAt(3));
+    }
+    
+    private boolean same(char a, char b, char c, char d) {
+        return (a == c && b == d) || (a == d && b == c);
+    }
+}
