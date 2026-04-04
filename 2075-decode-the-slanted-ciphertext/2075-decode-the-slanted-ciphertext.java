@@ -1,0 +1,34 @@
+class Solution {
+    public String decodeCiphertext(String encodedText, int rows) {
+        if (rows == 1) return encodedText;
+
+        int n = encodedText.length();
+        int cols = n / rows;
+
+        char[][] matrix = new char[rows][cols];
+        int idx = 0;
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                matrix[i][j] = encodedText.charAt(idx++);
+            }
+        }
+
+        StringBuilder result = new StringBuilder();
+
+        for (int startCol = 0; startCol < cols; startCol++) {
+            int i = 0, j = startCol;
+            while (i < rows && j < cols) {
+                result.append(matrix[i][j]);
+                i++;
+                j++;
+            }
+        }
+
+        while (result.length() > 0 && result.charAt(result.length() - 1) == ' ') {
+            result.deleteCharAt(result.length() - 1);
+        }
+
+        return result.toString();
+    }
+}
