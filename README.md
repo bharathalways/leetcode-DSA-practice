@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0067-add-binary) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Enumeration
