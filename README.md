@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2463-minimum-total-distance-traveled](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2751-robot-collisions) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
