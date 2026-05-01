@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0217-contains-duplicate) |
+| [0396-rotate-function](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0042-trapping-rain-water) |
+| [0396-rotate-function](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
