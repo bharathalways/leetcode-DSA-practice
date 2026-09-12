@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3660-jump-game-ix](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
