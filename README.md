@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0396-rotate-function) |
+| [0835-image-overlap](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1306-jump-game-iii) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0835-image-overlap) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
