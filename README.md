@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0836-rectangle-overlap) |
 | [1622-fancy-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
