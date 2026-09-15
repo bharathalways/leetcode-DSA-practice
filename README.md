@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1861-rotating-the-box) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2833-furthest-point-from-origin) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2463-minimum-total-distance-traveled](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3225-maximum-score-from-grid-operations) |
