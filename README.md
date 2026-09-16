@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2463-minimum-total-distance-traveled](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2615-sum-of-distances) |
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
