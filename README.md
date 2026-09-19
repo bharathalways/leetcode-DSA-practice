@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
