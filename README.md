@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0217-contains-duplicate) |
+| [1096-brace-expansion-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0217-contains-duplicate) |
 | [0874-walking-robot-simulation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Stack
 |  |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2751-robot-collisions) |
 ## Tree
@@ -499,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
