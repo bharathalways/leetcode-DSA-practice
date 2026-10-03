@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0058-length-of-last-word) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0396-rotate-function) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
