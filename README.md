@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
