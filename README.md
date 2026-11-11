@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Union-Find
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
