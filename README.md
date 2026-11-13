@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3488-closest-equal-element-queries) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1622-fancy-sequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Trie
 |  |
 | ------- |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0232-implement-queue-using-stacks) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -568,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
