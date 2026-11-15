@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0788-rotated-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
