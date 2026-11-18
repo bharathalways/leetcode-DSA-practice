@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
