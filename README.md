@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bharathalways/leetcode-DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Combinatorics
 |  |
